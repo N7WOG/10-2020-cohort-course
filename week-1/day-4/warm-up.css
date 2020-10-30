@@ -1,0 +1,15 @@
+h1 {
+    color: skyblue;
+    font-family: 'Syne Tactile', cursive;
+    text-transform: lowercase;
+}
+
+h2 {
+    color: chartreuse;
+    text-align: right;
+}
+
+h3 {
+    color: chocolate;
+    font-size: 58px;
+}
