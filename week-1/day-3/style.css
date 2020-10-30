@@ -1,6 +1,31 @@
-p {
-  color: blue; /* Styles! */
+/*
+
+PROPERTIES: VALUES
+
+Type of Selectors:
+  html element
+  id (#)
+  class (.)
+
+*/
+
+
+
+body {
+  background-color: linen;
+}
+
+span {
+  color: blue;            /* Styles! */
   font-size: 20px;
   font-style: italic;
   line-height: 22px;
 }
+
+p {
+  color: purple;
+  font-size: 20px;
+  font-style: italic;
+  line-height: 22px;
+}
+
