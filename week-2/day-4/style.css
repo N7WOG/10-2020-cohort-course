@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+}
+
+@keyframes dodLogos {
+    from {transform: translateX(0px);}
+    to {transform: translateX(-1200px);}
+}
+
+#window {
+    border: 1px solid lightgray;
+    width: 200px;
+    height: 200px;
+    margin: 10px auto;
+    overflow: hidden;
+}
+
+#imageSlider {
+    display: flex;
+    transform: translateX(0px);
+    animation: dodLogos 15s linear infinite;
+}
+
+#jsImageSlider {
+    display: flex;
+}
